@@ -2,10 +2,10 @@
     "applinks": {
         "details": [
              {
-                "appIDs": [ "24SJ354ETU.com.ventopay.mocca.app.dev", "24SJ354ETU.com.ventopay.mocca.app.dev.debug", "6M77R2D3X4.com.plt.ScanApp" ], 
+                "appIDs": [ "6M77R2D3X4.com.plt.ScanApp" ], 
                 "components": [{ 
-                    "/": "/ios_app/*", 
-                    "comment": "Matches any URL beginning with /ios_app/" 
+                    "/": "*", 
+                    "comment": "Matches any URL" 
                 }]
              }
          ]
