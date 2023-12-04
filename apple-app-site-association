@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": ["24SJ354ETU.com.ventopay.mocca.app.dev", "24SJ354ETU.com.ventopay.mocca.app.dev.debug"],
+            "paths": ["/ios_app/*"]
+        }]
+    }
+}
