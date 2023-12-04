@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "details": [
+             {
+                "appIDs": [ "6M77R2D3X4.com.plt.ScanApp" ], 
+                "components": [{ 
+                    "/": "*", 
+                    "comment": "Matches any URL" 
+                }]
+             }
+         ]
+     }
+  }
