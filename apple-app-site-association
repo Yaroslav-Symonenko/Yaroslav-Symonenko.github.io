@@ -4,7 +4,7 @@
              {
                 "appIDs": [ "6M77R2D3X4.com.plt.ScanApp" ], 
                 "components": [{ 
-                    "/": "*", 
+                    "/": "/ios_app/*", 
                     "comment": "Matches any URL" 
                 }]
              }
