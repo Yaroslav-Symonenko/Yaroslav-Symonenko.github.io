@@ -405,7 +405,8 @@
     },
     "webcredentials": {
         "apps": [
-            "24SJ354ETU.com.ventopay.mocca.app.*"
+            "24SJ354ETU.com.ventopay.mocca.app.adidas",
+            "24SJ354ETU.com.ventopay.mocca.app.adidas.debug"
         ]
     }
 }
