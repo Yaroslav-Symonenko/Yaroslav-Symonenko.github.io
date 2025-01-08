@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "vp.mocca.user.app.dev.debug",
+      "package_name": "vp.mocca.user.app.ventopay.debug",
       "sha256_cert_fingerprints":
       ["D9:6A:92:76:94:5D:E1:92:A3:C8:46:F5:8B:58:BA:19:4B:A8:5E:0A:D5:4F:DE:13:1D:68:59:01:B7:F2:2C:2F"]
     }
